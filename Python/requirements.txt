@@ -1,0 +1,4 @@
+sqlite3==2.6.0
+tkinter==8.6
+
+mysql-connector-python==8.0.29
